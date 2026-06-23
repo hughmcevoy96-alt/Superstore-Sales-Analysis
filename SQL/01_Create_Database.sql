@@ -1,0 +1,1 @@
+CREATE DATABASE Superstore_db; 
